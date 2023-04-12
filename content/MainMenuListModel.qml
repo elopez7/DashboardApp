@@ -18,11 +18,11 @@ ListModel {
         url: "coursesapp/CoursesMain.qml"
     }
     ListElement {
-        name: "Latest News"
+        name: "Latest_News"
         url: "newsapp/NewsMain.qml"
     }
     ListElement {
-        name: "Web Radio"
+        name: "Web_Radio"
         url: "radioapp/RadioMain.qml"
     }
 }
